@@ -11,7 +11,7 @@ ALTER TABLE `vehicles_for_sale`
   ADD PRIMARY KEY (`id`);
 
 
-ALTER TABLE `vehicles_for_salew`
+ALTER TABLE `vehicles_for_sale`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=51;
 
 CREATE TABLE IF NOT EXISTS `carmileages` (
